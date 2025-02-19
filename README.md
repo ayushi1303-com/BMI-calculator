@@ -33,15 +33,3 @@ This is a **BMI (Body Mass Index) Calculator** web page built using **HTML, CSS,
 
 - The result is displayed using an **alert message**.
 
-### **Issues & Improvements:**
-1. **Incorrect BMI range conditions:**
-   - The `else if (valueofbmi > 26)` condition ignores BMI between **25-26**.
-   - A correct range should be `else if (valueofbmi > 25 && valueofbmi <= 30)`.
-  
-2. **Missing input validation:**
-   - No checks if fields are empty or negative values are entered.
-
-3. **No BMI output display on the page:**
-   - Instead of an alert, the result could be displayed dynamically within a paragraph `<p>`.
-
-Would you like me to improve this code for you? 🚀
